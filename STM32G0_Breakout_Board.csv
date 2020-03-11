@@ -1,0 +1,12 @@
+Part,Value,Qty,Unit cost,Total cost
+"C1, C3",Cap 100nF 1206,2,$0.0202,$0.0404
+C2,Cap 4.7uF 1206,1,$0.0852,$0.0852
+C4,Cap 10uF 1206,1,$0.0518,$0.0518
+"D1, D2",Shottky barrier diode DO-214AC,2,$0.0147,$0.0294
+IC1,3.3V regulator SOT-89-3,1,$0.1189,$0.1189
+"PWR, USER",LED 0805,2,$0.0190,$0.0380
+"R1, R2",Resistor 100 ohm 1206,2,$0.0042,$0.0084
+S1,Pushbutton SPST-NO 5.1mmx5.1mm,1,$0.0329,$0.0329
+U1,STM32G031J6M6,1,$1.0392,$1.0392
+,,,,
+,TOTAL,,,$1.4442

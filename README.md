@@ -34,7 +34,7 @@ The schematic for this breakout board includes 5 modules or sections:
    - To reinsert USER LED, place a pin header and jumper in J3. The jumper now controls whether USER LED is included in the circuit or not.
 5. J-Link connector (J2)
 
-The cost is approximately $3.30 on JLCPCB (in quantities of 10).
+The cost is approximately $3.30 per board on JLCPCB (in quantities of 10).
 
 # PCB Silkscreen Text
 > - V_IN, 1.7-3.6V: Connected thru D2 to V_DD; MCU damage may occur if >4V applied to this pin.

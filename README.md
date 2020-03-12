@@ -1,5 +1,5 @@
 # STM32G031J6M6 Breakout Board
-![](https://github.com/nathancharlesjones/STM32G031J6M6-Breakout-Boards/blob/master/STM32G031J6M6_PCB.png)
+![](https://github.com/nathancharlesjones/STM32G0-Breakout-Boards/blob/master/STM32G031J6M6_PCB.png)
 
 # How to order
 1. Download or clone this repository.
@@ -16,7 +16,7 @@ Notes:
 1. Of the 6 GPIO this MCU supposedly has, one is used for reset and two are used for the SWD interface, meaning this MCU, realistically, only has 3 GPIO.
 
 # Schematic
-![](https://github.com/nathancharlesjones/STM32G031J6M6-Breakout-Boards/blob/master/STM32G031J6M6_Schematic.png)
+![](https://github.com/nathancharlesjones/STM32G0-Breakout-Boards/blob/master/STM32G031J6M6_Schematic.png)
 
 The schematic for this breakout board includes 5 modules or sections:
 1. MCU

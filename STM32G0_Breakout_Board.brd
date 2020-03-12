@@ -250,6 +250,7 @@ D1, D2: Shottky diode | DO-214AC
 FMI: github.com/nathancharlesjones/Embedded-
    for-Everyone/wiki</text>
 <text x="8.255" y="5.08" size="3.81" layer="25" rot="R270" align="top-left">.</text>
+<wire x1="20.32" y1="18.415" x2="20.32" y2="15.875" width="0.1524" layer="22"/>
 </plain>
 <libraries>
 <library name="adafruit">

@@ -248,15 +248,17 @@ USER LED connected to C14 (pin 1). Cut
 ------------------------------
 U1: STM32G031J6M6 /      SOIC8
           IC1: 1.7-3.6V regulator / SOT89-3
-         (ex: HT7533-1 from Holtek Semicon)
+             (ex: HT7533-1 from Holtek
+             Semicon)
          J1, 1st 4 terminals (in box): ST-Link
-          connection points
+             connection points
           J2: J-Link connector (ex: HPH2-A-
-         10-UA-SMT from Adam Tech or 
-         3221-10-0300-00 from CNC Tech)
-C1, C3:       100nF / 1206 | C2: 4.7uF / 1206
-S1:            SPST-NO / 5.1mmx5.1mm (ex:
-   TS-1187A-B-A-B from XKB Enterprises)
+             10-UA-SMT from Adam Tech or 
+                3221-10-0300-00 from CNC
+                Tech)
+C1, C3: 100nF / 1206 | C2: 4.7uF / 1206
+S1: SPST-NO / 5.1mmx5.1mm (ex: TS-
+   1187A-B-A-B from XKB Enterprises)
 R1, R2: 1206
 PWR/USER LED: 0805
 D1, D2: Shottky diode | DO-214AC

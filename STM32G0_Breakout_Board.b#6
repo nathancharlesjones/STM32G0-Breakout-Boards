@@ -250,7 +250,7 @@ U1: STM32G031J6M6 /      SOIC8
           IC1: 1.7-3.6V regulator / SOT89-3
              (ex: HT7533-1 from Holtek
              Semicon)
-         J1, 1st 4 terminals (in box): ST-Link
+          J1, 1st 4 terminals (in box): ST-Link
              connection points
           J2: J-Link connector (ex: HPH2-A-
              10-UA-SMT from Adam Tech or 
@@ -262,8 +262,8 @@ S1: SPST-NO / 5.1mmx5.1mm (ex: TS-
 R1, R2: 1206
 PWR/USER LED: 0805
 D1, D2: Shottky diode | DO-214AC
-FMI: github.com/nathancharlesjones/
-   Embedded-for-Everyone/wiki</text>
+FMI: github.com/nathancharlesjones/Embedded-
+   for-Everyone/wiki</text>
 </plain>
 <libraries>
 <library name="adafruit">
